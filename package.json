@@ -29,7 +29,8 @@
     "livereload": "0.9.3",
     "node-fetch": "2.6.7",
     "node-sass": "^7.0.1",
-    "node-sass-middleware": "^1.0.1"
+    "node-sass-middleware": "^1.0.1",
+    "yarn": "^1.22.17"
   },
   "release": {
     "extends": "@mike-works/workshop-semantic-release-config"
