@@ -28,8 +28,8 @@
     "hbs": "4.2.0",
     "livereload": "0.9.3",
     "node-fetch": "2.6.7",
-    "node-sass": "4.14.1",
-    "node-sass-middleware": "0.11.0"
+    "node-sass": "^7.0.1",
+    "node-sass-middleware": "^1.0.1"
   },
   "release": {
     "extends": "@mike-works/workshop-semantic-release-config"
@@ -37,6 +37,6 @@
   "devDependencies": {
     "@mike-works/js-lib-renovate-config": "2.0.0",
     "@mike-works/workshop-semantic-release-config": "1.0.0",
-    "semantic-release": "15.14.0"
+    "semantic-release": "^19.0.2"
   }
 }
